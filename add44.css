@@ -1,0 +1,52 @@
+
+#bod{
+    height: 500px;
+    width: 400px;
+    border: 4px solid red;
+    border-radius: 10px;
+    background-color: grey;
+    position: relative;
+    top: 150px;
+}
+body{
+    margin-left: 100px;
+height:1000px ;
+width: 1300px;
+border-top: 10px solid red;
+border-bottom: 10px solid yellow;
+border-right: 10px solid darkblue;
+border-left: 10px solid greenyellow;
+background-image: url("https://tse4.mm.bing.net/th?id=OIP.aVZ2RxPP8FEyXz5ciIoeLQHaEK&pid=Api&P=0&h=180");
+background-size: cover;
+background-repeat: no-repeat;
+}
+#di{
+    height: 800px;
+    width: 700px;
+    border: 4px solid black;
+    background-color: aqua;
+
+    
+}
+#h{
+    color:darkcyan;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+#email{
+    height: 30px;
+    width: 300px;
+    border: 2px solid grey;
+}
+#pass{
+    height: 30px;
+    width: 300px;
+    border: 2px solid grey;
+}
+#but{
+   background-color: darkcyan;
+   color: white;
+   width: 80px;
+   height: 35px;
+   border-radius: 5px;
+    
+}
